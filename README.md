@@ -94,13 +94,3 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## Contact
-<img align="left" src="https://avatars.githubusercontent.com/dharmesh-kashyap?size=100">
-
-Made with ❤️ by [Dharmesh Kashyap](https://github.com/dharmesh-kashyap), get in touch!
-
-<a href="mailto:dharmeshkashyap46@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/dharmesh-kashyap" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
-
-<br clear="left"/>
